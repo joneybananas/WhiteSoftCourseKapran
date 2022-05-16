@@ -1,0 +1,29 @@
+[
+  {
+    "firstName": "Геннадий",
+    "lastName": "Кузьмин",
+    "description": "JSDfgdslfighjdiolfghjdfpghbdfhgfguj",
+    "characteristics": [
+      "honest",
+      "like",
+      "criticism",
+      "love"
+    ],
+    "post": {
+      "id": "854ef89d-6c27-4635-926d-894d76a81707",
+      "name": "post1"
+    }
+  },
+  {
+    "firstName": "Иванов",
+    "lastName": "Иван",
+    "description": null,
+    "characteristics": [
+      " some characterisitc"
+    ],
+    "Post": {
+      "id": "762d15a5-3bc9-43ef-ae96-02a680a557d0",
+      "name": "post2"
+    }
+  }
+]
