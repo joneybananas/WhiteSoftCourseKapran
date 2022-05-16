@@ -1,7 +1,15 @@
+import Models.Employee;
+import Utils.MyFileUtil;
 
+import java.util.ArrayList;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("hello");
+
+        MyFileUtil myFileUtil = new MyFileUtil("./src/file.json");
+
+        myFileUtil.printList(false);
+
+
     }
 }
